@@ -1,0 +1,19 @@
+Decide on topic :
+
+Zillow housing market prediction
+
+
+
+Find preliminary datasets for your project
+
+https://www.zillow.com/research/data/
+
+
+Perform rudimentary EDA on the datasets that  have been found
+
+
+
+
+Create a mockup of the database
+
+Create a mockup of the ML model
