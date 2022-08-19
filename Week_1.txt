@@ -12,7 +12,7 @@ Drop all the missing values.
 
 Finally save the data to a csv file.
 
-Connected python to the postgresql database.
+Created engine to access postgres database using sqlalchemy.
 
 Designed pandas SQL queries to create the tables and insert the data.
 
