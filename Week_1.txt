@@ -1,0 +1,20 @@
+Imported data from csv found on kaggle.
+
+Explored the data and found that the data is not clean.
+
+Identified and removed outlieres.
+
+Compute pairwise correlation to the saleprice to find important features.
+
+Choosing only the features that have a correlation higher than 30%
+
+Drop all the missing values.
+
+Finally save the data to a csv file.
+
+// Prep for next week :
+
+Created engine to access postgres database using sqlalchemy.
+
+Designed pandas SQL queries to create the tables and insert the data.
+
