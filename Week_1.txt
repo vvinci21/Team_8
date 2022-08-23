@@ -12,6 +12,8 @@ Drop all the missing values.
 
 Finally save the data to a csv file.
 
+// Prep for next week :
+
 Created engine to access postgres database using sqlalchemy.
 
 Designed pandas SQL queries to create the tables and insert the data.
