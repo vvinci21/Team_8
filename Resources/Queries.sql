@@ -1,0 +1,42 @@
+CREATE TABLE test_cleaned(
+	House_Id VARCHAR(255),
+	OverallQual VARCHAR(255),
+	YearBuilt VARCHAR(255),
+	YearRemodAdd VARCHAR(255),
+	MasVnrArea VARCHAR(255),
+	BsmtFinSF1 VARCHAR(255),
+	TotalBsmtSF VARCHAR(255),
+	FirstFlrSF VARCHAR(255),
+	SecFlrSF VARCHAR(255),
+	GrLivArea VARCHAR(255),
+	FullBath VARCHAR(255),
+	TotRmsAbvGrd VARCHAR(255),
+	Fireplaces VARCHAR(255),
+	GarageYrBlt VARCHAR(255),
+	GarageCars VARCHAR(255),
+	GarageArea VARCHAR(255),
+	WoodDeckSF VARCHAR(255),
+	OpenPorchSF VARCHAR(255)
+);
+
+CREATE TABLE train_cleaned(
+	House_Id VARCHAR(255),
+	OverallQual VARCHAR(255),
+	YearBuilt VARCHAR(255),
+	YearRemodAdd VARCHAR(255),
+	MasVnrArea VARCHAR(255),
+	BsmtFinSF1 VARCHAR(255),
+	TotalBsmtSF VARCHAR(255),
+	FirstFlrSF VARCHAR(255),
+	SecFlrSF VARCHAR(255),
+	GrLivArea VARCHAR(255),
+	FullBath VARCHAR(255),
+	TotRmsAbvGrd VARCHAR(255),
+	Fireplaces VARCHAR(255),
+	GarageYrBlt VARCHAR(255),
+	GarageCars VARCHAR(255),
+	GarageArea VARCHAR(255),
+	WoodDeckSF VARCHAR(255),
+	OpenPorchSF VARCHAR(255),
+    SalePrice VARCHAR(255)
+);
