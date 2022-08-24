@@ -6,9 +6,11 @@ Identified and removed outlieres.
 
 Compute pairwise correlation to the saleprice to find important features.
 
-Choosing only the features that have a correlation higher than 30%
+Choosing only the features that have a correlation higher than 30%. 
 
-Drop all the missing values.
+Discovered 19 important features out of 80.
+
+Dropped missing data and filled empty features with means.
 
 Finally save the data to a csv file.
 
