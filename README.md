@@ -2,7 +2,14 @@
 
 ## Machine Learning Model - Final Project 2021
 
-In our final project, our team used Machine Learning Linear Regression as a Data Science and Analytics housing pricing prediction.
+## Predicting the Housing Market
+
+* In our final project, our team used Machine Learning Linear Regression as a Data Science and Analytics housing pricing prediction. We hypothesize that the more bedrooms a porperty has the higher the sale price. 
+
+## Team Members - Roles
+ * Krystle West - Machine Learning Tool Creation Manager (Triangle)
+ * Arielle Colasanto- Framework Creation Manager (Circle)
+ * Vincent Vinci - Information Manager (Square)
 
 ## Resources and DataSets:
 This project assignment consists of three technical analysis deliverables and a proposal for further statistical study:
@@ -59,12 +66,6 @@ Base = automap_base()
 
 Now, after having our refresher, let's move to our Project!
 
-## Predicting the Housing Market
 
 ### Data Analytics
- 
 
-## Team Members - Roles
- * Krystle West - Machine Learning Tool Creation Manager (Triangle)
- * Arielle Colasanto- Framework Creation Manager (Circle)
- * Vincent Vinci - Information Manager (Square)
