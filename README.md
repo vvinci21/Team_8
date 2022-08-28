@@ -2,21 +2,23 @@
 
 ## Machine Learning Model - Final Project 2021
 
-## Predicting the Housing Market
+## Predicting Housing Prices
 
-* In our final project, our team used Machine Learning Linear Regression as a Data Science and Analytics housing pricing prediction. We hypothesize that the more bedrooms a porperty has the higher the sale price. 
+* In our final project, our team used Machine Learning Linear Regression as a Data Science and Analytics housing pricing prediction. We hypothesize that the more bedrooms a property has the higher the sale price. The housing data was chosen from Kaggle due the the numerous variables associated with every property that have an effect on the sale price.
 
 ## Team Members - Roles
  * Krystle West - Machine Learning Tool Creation Manager (Triangle)
  * Arielle Colasanto- Framework Creation Manager (Circle)
  * Vincent Vinci - Information Manager (Square)
+ 
+ * Meetings every Tuesday and Thursday
 
 ## Resources and DataSets:
-This project assignment consists of three technical analysis deliverables and a proposal for further statistical study:
 
-* Data Source: `House Prices` from [Kaggle - Housing Data](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
-* Data Tools:  
+* Data Source: `House Prices` were obtained from [Kaggle - Housing Data](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
 * Software: `Python 3.9`, `Visual Studio Code`, `Anaconda 4.13`, `Jupyter Notebook`, and `Pandas` 
+
+## Data Approach
 
 ## SQLite Advantages
 While there are a few specific use cases for SQLite, we'll be focusing on how it can be beneficial to you and where you might get the most value from it. The main advantages are:
