@@ -68,3 +68,4 @@ Base = automap_base()
 
 ### Data Analytics
 
+[Google Slides](https://docs.google.com/presentation/d/1wvPNxExDlCJhe1lzaHfo_akHufj1xvtRC4TSMN_8q5g/edit#slide=id.g138bc1f89a1_0_0)
