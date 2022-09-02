@@ -66,8 +66,6 @@ In order for your code to function properly, you will need to add this line to y
 Base = automap_base()
 ````
 
-Now, after having our refresher, let's move to our Project!
-
-
 ### Data Analytics
 
+[Google Slides](https://docs.google.com/presentation/d/1wvPNxExDlCJhe1lzaHfo_akHufj1xvtRC4TSMN_8q5g/edit#slide=id.g138bc1f89a1_0_0)
