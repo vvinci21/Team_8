@@ -12,6 +12,10 @@
  * Vincent Vinci - Information Manager (Square)
  
  * Meetings every Tuesday and Thursday
+ 
+## Storyboard
+
+[Google Slidesand Storyboard](https://docs.google.com/presentation/d/1wvPNxExDlCJhe1lzaHfo_akHufj1xvtRC4TSMN_8q5g/edit#slide=id.g138bc1f89a1_0_0)
 
 ## Resources and DataSets:
 
@@ -65,7 +69,10 @@ In order for your code to function properly, you will need to add this line to y
 ````Python
 Base = automap_base()
 ````
+### Data Structure
 
-### Data Analytics
+### Data Exploration 
+
+### Data Analysis
 
 [Google Slides](https://docs.google.com/presentation/d/1wvPNxExDlCJhe1lzaHfo_akHufj1xvtRC4TSMN_8q5g/edit#slide=id.g138bc1f89a1_0_0)
