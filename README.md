@@ -69,9 +69,22 @@ In order for your code to function properly, you will need to add this line to y
 ````Python
 Base = automap_base()
 ````
-### Data Structure
 
 ### Data Exploration 
+
+* Imported data from csv found on kaggle.
+
+* Explored the data and found that the data is not clean.
+
+* Identified and removed outlieres.
+
+* Compute pairwise correlation to the saleprice to find important features.
+
+* Choosing only the features that have a correlation higher than 30%. 
+
+* Discovered 19 important features out of 80.
+
+* Dropped missing data and filled empty features with means.
 
 ### Data Analysis
 
