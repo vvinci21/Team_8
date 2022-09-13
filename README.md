@@ -88,4 +88,15 @@ Base = automap_base()
 
 ### Data Analysis
 
+**Legend** 
+
+![png](https://github.com/vvinci21/Team_8/blob/0f9b2635bc022c4b5074482dc767bb52e313af43/Screen%20Shot%202022-09-13%20at%207.03.31%20PM%202.png)
+
+![png](https://github.com/vvinci21/Team_8/blob/0f9b2635bc022c4b5074482dc767bb52e313af43/Screen%20Shot%202022-09-13%20at%207.03.09%20PM%202.png)
+
+![png](https://github.com/vvinci21/Team_8/blob/0f9b2635bc022c4b5074482dc767bb52e313af43/Screen%20Shot%202022-09-13%20at%207.03.16%20PM%202.png)
+
+![png](https://github.com/vvinci21/Team_8/blob/0f9b2635bc022c4b5074482dc767bb52e313af43/Screen%20Shot%202022-09-13%20at%207.03.23%20PM%202.png)
+
+
 
